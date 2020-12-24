@@ -1,0 +1,50 @@
+[
+  {
+    "name": {
+      "basic": "unison",
+      "alt": "perfect prime",
+      "bp": ""
+    },
+    "first": 1,
+    "second": 1
+  },
+  {
+    "name": {
+      "basic": "octave",
+      "alt": "",
+      "bp": ""
+    },
+    "first": 2,
+    "second": 1
+  },
+
+  {
+    "name": {
+      "basic": "perfect fifth",
+      "alt": "",
+      "bp": ""
+    },
+    "first": 3,
+    "second": 2
+  },
+
+  {
+    "name": {
+      "basic": "perfect fourth",
+      "alt": "",
+      "bp": ""
+    },
+    "first": 4,
+    "second": 3
+  },
+
+  {
+    "name": {
+      "basic": "major sixth",
+      "alt": "",
+      "bp": "sixth"
+    },
+    "first": 1,
+    "second": 2
+  },
+]
