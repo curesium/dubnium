@@ -1,7 +1,10 @@
-fetch('https://dubnium.curesium.com/assets/data/intervals.json').then(
+const url = 'https://dubnium.curesium.com/assets/data/intervals.json';
+var songList;
+
+fetch(url).then(
     function(u){ return u.json();}
   ).then(
     function(json){
-      intervals = json;
+      songList = json;
     }
   )
